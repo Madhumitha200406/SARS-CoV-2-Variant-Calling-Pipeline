@@ -26,6 +26,7 @@ FastQC Report:
 
 Sorted BAM & VCF Output:
 [SortSam](SortSam.jpeg)
+
 [VCF](VCF.jpeg)
 
  Developed by
